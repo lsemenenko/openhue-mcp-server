@@ -1,0 +1,22 @@
+{
+  "name": "claude-mcp-openhue",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node build/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.4",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "typescript": "^5.7.2"
+  }
+}

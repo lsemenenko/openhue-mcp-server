@@ -1,0 +1,20 @@
+# Build output
+build/
+
+# Dependencies
+node_modules/
+
+# Environment/config files
+.env
+~/.openhue/
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
