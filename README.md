@@ -2,6 +2,8 @@
 
 An MCP server that enables control of Philips Hue lights through Claude and other LLM interfaces using the OpenHue CLI.
 
+<a href="https://glama.ai/mcp/servers/5ixz6hgw5u"><img width="380" height="200" src="https://glama.ai/mcp/servers/5ixz6hgw5u/badge" alt="OpenHue Server MCP server" /></a>
+
 ## Prerequisites
 
 - [Node.js](https://nodejs.org/) (v16 or higher)
