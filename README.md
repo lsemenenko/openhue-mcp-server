@@ -214,7 +214,7 @@ npm start
 
 ## License
 
-BSD 2-Clause License
+MIT License
 
 ## Contributing
 

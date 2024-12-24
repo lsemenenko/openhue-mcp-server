@@ -7,10 +7,10 @@
     "build": "tsc",
     "start": "node build/index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "keywords": ["claude", "mcp", "openhue", "philips", "hue"],
+  "author": "Leonid Semenenko",
+  "license": "MIT",
+  "description": "An MCP server that enables control of Philips Hue lights through Claude and other LLM interfaces using the OpenHue CLI.",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.0.4",
     "zod": "^3.24.1"
